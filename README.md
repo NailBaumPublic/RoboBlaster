@@ -13,14 +13,17 @@ date: 2024-05-22
 ### 🌱 프로젝트의 목표
 - ✔️Along with it, I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna.
 
-### 🔨 프로젝트에 사용된 기술
+### 🔨 사용된 기술스택
 An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
+
+### 🖨️ 와이어 프레임
+232323
 
 ### ⚡ 프로젝트 동작
 I have a knack for writing too and write on my personal blog- [Garima Codes](https://garimasingh.netlify.app/) or on [Medium](https://medium.com/@garingh128).
 I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
-### 💬 트러블 슈
+### 💬 Trouble Shooting
 If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/GarimaS93930012) or [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/). You can also ask me anything (within reason).
 
 
