@@ -33,7 +33,7 @@ date: 2024-05-22
 <br>
 
 ## 🔨 사용된 기술스택  
-![193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7](https://github.com/NailBaumPublic/RoboBlaster/assets/105085706/a7d7da78-5b7e-406e-b170-70875339c510)
+<img height="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png">
 Unity   
 <br>
 <br>
