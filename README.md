@@ -15,27 +15,32 @@ date: 2024-05-22
 - 팀원 : 이인호
 <br>
 <br>
+</div>
 
 ### 🌱 프로젝트의 목표  
 
 <br>
 <br>
+</div>
 
 ### 🔨 사용된 기술스택  
 ![193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7](https://github.com/NailBaumPublic/RoboBlaster/assets/105085706/a7d7da78-5b7e-406e-b170-70875339c510)  
 유니티  
 <br>
 <br>
+</div>
 
 ### 🖨️ 와이어 프레임  
 ![스크린샷 2024-05-22 065133](https://github.com/NailBaumPublic/RoboBlaster/assets/105085706/41aad2ba-0a60-43be-a626-3976ab2fab73)  
 <br>
 <br>
+</div>
 
 ### ⚡ 프로젝트 동작  
 (프로젝트의 구현 기능들 하나씩 사진과 함께 설명)  
 <br>
 <br>
+</div>
 
 ### 💬 Trouble Shooting  
 - ✔️ Trouble 1  
