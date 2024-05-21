@@ -9,28 +9,32 @@ date: 2024-05-22
 적들을 물리치고 오래 살아남아 최고점을 기록하세요!
 
 ### 👯 팀원  
-  😄 김영선  
-  😄 김태형A  
-  😄 이상수  
-  😄 이인호  
+- 팀장 : 이상수
+- 팀원 : 김영선
+- 팀원 : 김태형
+- 팀원 : 이인호
+
   
 ### 🌱 프로젝트의 목표  
+
 
   
 ### 🔨 사용된 기술스택  
 ![193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7](https://github.com/NailBaumPublic/RoboBlaster/assets/105085706/a7d7da78-5b7e-406e-b170-70875339c510)  
 유니티  
+
   
 ### 🖨️ 와이어 프레임  
 ![스크린샷 2024-05-22 065133](https://github.com/NailBaumPublic/RoboBlaster/assets/105085706/41aad2ba-0a60-43be-a626-3976ab2fab73)  
+
   
 ### ⚡ 프로젝트 동작  
 (프로젝트의 구현 기능들 하나씩 사진과 함께 설명)  
+
   
 ### 💬 Trouble Shooting  
 - ✔️ Trouble 1  
 (문제점에 대한 설명과 해소 과정 설명)
-  
 <!--
 **garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
