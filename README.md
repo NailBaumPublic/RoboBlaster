@@ -10,6 +10,7 @@ date: 2024-05-22
 
 ### 👯 팀원
 
+
 ### 🌱 프로젝트의 목표
 - ✔️Along with it, I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna.
 
