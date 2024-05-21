@@ -2,8 +2,7 @@
 title: RoboBlaster
 date: 2024-05-22
 ---
-
-![Uploading Untitled.png…]()
+![Untitled](https://github.com/NailBaumPublic/RoboBlaster/assets/105085706/b2a87a5d-80a4-44c7-8edb-876eb2b3c23a)
 내일배움캠프 게임 개발 트랙 유니티 입문 주차 팀프로젝트 RoboBlaster  
 횡 방향 진행 방식의 슈팅 게임.  
 적들을 물리치고 오래 살아남아 최고점을 기록하세요!
