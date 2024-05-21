@@ -8,26 +8,29 @@ date: 2024-05-22
 횡 방향 진행 방식의 슈팅 게임.  
 적들을 물리치고 오래 살아남아 최고점을 기록하세요!
 
-### 👯 팀원
+### 👯 팀원  
+  😄 김영선  
+  😄 김태형A  
+  😄 이상수  
+  😄 이인호  
+  
+### 🌱 프로젝트의 목표  
 
-
-### 🌱 프로젝트의 목표
-- ✔️Along with it, I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna.
-
-### 🔨 사용된 기술스택
-An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
-
-### 🖨️ 와이어 프레임
-232323
-
-### ⚡ 프로젝트 동작
-I have a knack for writing too and write on my personal blog- [Garima Codes](https://garimasingh.netlify.app/) or on [Medium](https://medium.com/@garingh128).
-I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
-### 💬 Trouble Shooting
-If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/GarimaS93930012) or [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/). You can also ask me anything (within reason).
-
-
+  
+### 🔨 사용된 기술스택  
+![193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7](https://github.com/NailBaumPublic/RoboBlaster/assets/105085706/a7d7da78-5b7e-406e-b170-70875339c510)  
+유니티  
+  
+### 🖨️ 와이어 프레임  
+![스크린샷 2024-05-22 065133](https://github.com/NailBaumPublic/RoboBlaster/assets/105085706/41aad2ba-0a60-43be-a626-3976ab2fab73)  
+  
+### ⚡ 프로젝트 동작  
+(프로젝트의 구현 기능들 하나씩 사진과 함께 설명)  
+  
+### 💬 Trouble Shooting  
+- ✔️ Trouble 1  
+(문제점에 대한 설명과 해소 과정 설명)
+  
 <!--
 **garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
